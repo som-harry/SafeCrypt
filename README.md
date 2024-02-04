@@ -10,7 +10,6 @@ The Encryption library provides a set of methods for encrypting and decrypting d
 
 - [Installation](#installation)
 - [Usage](#basic-usage)
-- [API Reference](#api-reference)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
